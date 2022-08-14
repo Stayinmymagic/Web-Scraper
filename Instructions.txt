@@ -1,0 +1,13 @@
+< 爬蟲流程 >
+
+1. 在get_proxy/spiders/proxy.py 可以設定爬prxoy-list的網頁(參考https://free-proxy-list.net/)
+
+2. Scrapy crawl proxy.json ---> 啟動get_proxy專案
+
+3. 輸出proxy清單 ---> proxy.json 
+
+4. 在reuters/settings.py 設定SQL的host, database, username, password
+
+5. 在reuters/spiders/reuters.py 設定topics變數可以決定要爬那些關鍵字的新聞
+
+6. Scrapy crawl ---> 啟動reuters專案，爬forbes網站新聞

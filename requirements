@@ -1,0 +1,4 @@
+beautifulsoup4
+scrapy==2.5
+itmadapter
+pymysql

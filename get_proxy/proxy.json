@@ -1,0 +1,18 @@
+[
+{"scheme": "https", "proxy": "https://176.28.64.225:3128", "port": "3128"},
+{"scheme": "http", "proxy": "http://110.78.171.184:8080", "port": "8080"},
+{"scheme": "http", "proxy": "http://106.104.148.208:80", "port": "80"},
+{"scheme": "https", "proxy": "https://94.130.219.212:3128", "port": "3128"},
+{"scheme": "https", "proxy": "https://45.76.156.143:8000", "port": "8000"},
+{"scheme": "https", "proxy": "https://167.71.199.228:8080", "port": "8080"},
+{"scheme": "https", "proxy": "https://82.64.183.22:8080", "port": "8080"},
+{"scheme": "http", "proxy": "http://47.56.69.11:8000", "port": "8000"},
+{"scheme": "https", "proxy": "https://161.202.226.194:80", "port": "80"},
+{"scheme": "https", "proxy": "https://161.202.226.194:80", "port": "80"},
+{"scheme": "https", "proxy": "https://180.150.205.162:8080", "port": "8080"},
+{"scheme": "https", "proxy": "https://47.56.69.11:8000", "port": "8000"},
+{"scheme": "https", "proxy": "https://201.132.155.198:8080", "port": "8080"},
+{"scheme": "https", "proxy": "https://51.81.82.175:80", "port": "80"},
+{"scheme": "https", "proxy": "https://45.76.156.143:8000", "port": "8000"},
+{"scheme": "https", "proxy": "https://104.128.228.69:8118", "port": "8118"}
+]
