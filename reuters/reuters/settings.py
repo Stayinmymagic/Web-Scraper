@@ -105,9 +105,9 @@ ITEM_PIPELINES = {
 #HTTPCACHE_DIR = 'httpcache'
 #HTTPCACHE_IGNORE_HTTP_CODES = []
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
-PROXY_LIST_FILE = '/home/lab04/webscraper/get_proxy/proxy.json'
+PROXY_LIST_FILE = '../webscraper/get_proxy/proxy.json'
 
-MYSQL_HOST = 'localhost'
-MYSQL_DATABASE = 'webscraper'
-MYSQL_USERNAME = 'lab04'
-MYSQL_PASSWORD = 'MIS5502'
+MYSQL_HOST = ''
+MYSQL_DATABASE = ''
+MYSQL_USERNAME = ''
+MYSQL_PASSWORD = ''
