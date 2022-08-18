@@ -11,6 +11,6 @@
 * Beautifulsoup
 
 ###Step by Step
-1. <pre><code>scrapy crawl get_proxy</code></pre>啟動專案將可用的free proxy載下來整理成json file.
-2. 在config.yml 輸入欲下載的關鍵字以及新聞網址
-3. <pre><code>scrapy crawl reuters</code></pre>啟動專案
+1. 啟動專案將可用的free proxy載下來整理成json file.
+2. 在spiders/reuters.py中修改欲下載的關鍵字以及新聞網址
+3. 啟動專案reuters專案可開始下載
