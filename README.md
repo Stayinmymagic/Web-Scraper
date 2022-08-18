@@ -10,7 +10,7 @@
 * requests
 * Beautifulsoup
 
-###Step by Step
+### Step by Step
 1. 啟動專案將可用的free proxy載下來整理成json file.
 2. 在spiders/reuters.py中修改欲下載的關鍵字以及新聞網址
 3. 啟動專案reuters專案可開始下載
